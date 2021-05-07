@@ -4,4 +4,6 @@
 - 🚂 My research focuses focuses on industrial problems faced by the French railway SNCF
 - 🏫 I also enjoy teaching maths and computer science to undergraduate and graduate students
 
-[![gdalle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdalle&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gdalle&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdalle&hide=html,css,javascript,php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
