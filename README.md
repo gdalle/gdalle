@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**gdalle/gdalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a PhD student in machine learning and operations research, working on industrial problems for the French railway.
+- 🎓 I'm a PhD student in machine learning and operations research
+- 🚂 My research focuses focuses on industrial problems faced by the French railway SNCF
+- 🏫 I also enjoy teaching maths and computer science to undergraduate and graduate students
 
 [![gdalle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdalle)](https://github.com/anuraghazra/github-readme-stats)
--->
