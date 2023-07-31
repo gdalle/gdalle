@@ -6,3 +6,5 @@ My current research focuses on the behavior of graph neural networks.
 Between 2019 and 2022, I was a PhD student at École des Ponts ([CERMICS](https://cermics-lab.enpc.fr/)), and then a teaching assistant at MIT ([JuliaLab](https://julia.mit.edu/)).
 
 > Check out my [PhD Resources](https://phd-resources.github.io/) website for students and researchers :microscope:
+
+[![gdalle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdalle)](https://github.com/anuraghazra/github-readme-stats)
