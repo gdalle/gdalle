@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-I am a postdoctoral researcher in machine learning at EPFL, working between the labs [IdePHICS](https://www.epfl.ch/labs/idephics/), [SPOC](https://www.epfl.ch/labs/spoc/) and [INDY](https://indy.epfl.ch/).
-My current research focuses on the behavior of graph neural networks.
+I am a researcher in applied mathematics at École des Ponts ([LVMT](https://www.lvmt.fr/)), with a focus on transportation systems. Before that, I was a postdoc at EPFL ([INDY](https://indy.epfl.ch/) and [IdePHICS](https://www.epfl.ch/labs/idephics/)) and a visiting student at MIT ([Julia lab](https://julia.mit.edu/)).
 
-Between 2019 and 2022, I was a PhD student at École des Ponts ([CERMICS](https://cermics-lab.enpc.fr/)), and then a teaching assistant at MIT ([JuliaLab](https://julia.mit.edu/)).
-
-> Check out my [PhD Resources](https://phd-resources.github.io/) website for students and researchers :microscope:
+A large part of my work is devoted to open-source scientific software in the [Julia programming language](https://julialang.org/).
 
 [![gdalle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdalle)](https://github.com/anuraghazra/github-readme-stats)
